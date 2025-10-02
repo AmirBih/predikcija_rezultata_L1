@@ -1,0 +1,667 @@
+,H,A,Result
+0,OGC Nice,LOSC Lille,1 - 1
+1,Olympique de Marseille,Stade de Reims,2 - 1
+2,Paris Saint-Germain,FC Lorient,0 - 0
+3,Stade Brestois 29,RC Lens,3 - 2
+4,Clermont Foot 63,AS Monaco,2 - 4
+5,Montpellier Hérault SC,Havre Athletic Club,2 - 2
+6,FC Nantes,Toulouse FC,1 - 2
+7,Stade Rennais FC,FC Metz,5 - 1
+8,RC Strasbourg Alsace,Olympique Lyonnais,2 - 1
+9,FC Metz,Olympique de Marseille,2 - 2
+10,Olympique Lyonnais,Montpellier Hérault SC,1 - 4
+11,Toulouse FC,Paris Saint-Germain,1 - 1
+12,LOSC Lille,FC Nantes,2 - 0
+13,Havre Athletic Club,Stade Brestois 29,1 - 2
+14,FC Lorient,OGC Nice,1 - 1
+15,Stade de Reims,Clermont Foot 63,2 - 0
+16,AS Monaco,RC Strasbourg Alsace,3 - 0
+17,RC Lens,Stade Rennais FC,1 - 1
+18,FC Nantes,AS Monaco,3 - 3
+19,Olympique de Marseille,Stade Brestois 29,2 - 0
+20,Paris Saint-Germain,RC Lens,3 - 1
+21,Stade Rennais FC,Havre Athletic Club,2 - 2
+22,Clermont Foot 63,FC Metz,0 - 1
+23,Montpellier Hérault SC,Stade de Reims,1 - 3
+24,RC Strasbourg Alsace,Toulouse FC,2 - 0
+25,FC Lorient,LOSC Lille,4 - 1
+26,OGC Nice,Olympique Lyonnais,0 - 0
+27,FC Nantes,Olympique de Marseille,1 - 1
+28,Stade Brestois 29,Stade Rennais FC,0 - 0
+29,AS Monaco,RC Lens,3 - 0
+30,Toulouse FC,Clermont Foot 63,2 - 2
+31,Havre Athletic Club,FC Lorient,3 - 0
+32,LOSC Lille,Montpellier Hérault SC,1 - 0
+33,FC Metz,Stade de Reims,2 - 2
+34,OGC Nice,RC Strasbourg Alsace,2 - 0
+35,Olympique Lyonnais,Paris Saint-Germain,1 - 4
+36,Paris Saint-Germain,OGC Nice,2 - 3
+37,Stade Rennais FC,LOSC Lille,2 - 2
+38,RC Lens,FC Metz,0 - 1
+39,FC Lorient,AS Monaco,2 - 2
+40,Clermont Foot 63,FC Nantes,0 - 1
+41,Stade de Reims,Stade Brestois 29,1 - 2
+42,RC Strasbourg Alsace,Montpellier Hérault SC,2 - 2
+43,Olympique de Marseille,Toulouse FC,0 - 0
+44,Olympique Lyonnais,Havre Athletic Club,0 - 0
+45,AS Monaco,OGC Nice,0 - 1
+46,FC Nantes,FC Lorient,5 - 3
+47,Stade Brestois 29,Olympique Lyonnais,1 - 0
+48,FC Metz,RC Strasbourg Alsace,0 - 1
+49,Havre Athletic Club,Clermont Foot 63,2 - 1
+50,RC Lens,Toulouse FC,2 - 1
+51,Montpellier Hérault SC,Stade Rennais FC,0 - 0
+52,Paris Saint-Germain,Olympique de Marseille,4 - 0
+53,LOSC Lille,Stade de Reims,1 - 2
+54,RC Strasbourg Alsace,RC Lens,0 - 1
+55,Clermont Foot 63,Paris Saint-Germain,0 - 0
+56,AS Monaco,Olympique de Marseille,3 - 2
+57,Stade de Reims,Olympique Lyonnais,2 - 0
+58,Havre Athletic Club,LOSC Lille,0 - 2
+59,OGC Nice,Stade Brestois 29,0 - 0
+60,Toulouse FC,FC Metz,3 - 0
+61,FC Lorient,Montpellier Hérault SC,0 - 3
+62,Stade Rennais FC,FC Nantes,3 - 1
+63,RC Strasbourg Alsace,FC Nantes,1 - 2
+64,FC Metz,OGC Nice,0 - 1
+65,Stade de Reims,AS Monaco,1 - 3
+66,Olympique de Marseille,Havre Athletic Club,3 - 0
+67,Stade Brestois 29,Toulouse FC,1 - 1
+68,Olympique Lyonnais,FC Lorient,3 - 3
+69,RC Lens,LOSC Lille,1 - 1
+70,Stade Rennais FC,Paris Saint-Germain,1 - 3
+71,Montpellier Hérault SC,Clermont Foot 63,1 - 1
+72,Havre Athletic Club,RC Lens,0 - 0
+73,Paris Saint-Germain,RC Strasbourg Alsace,3 - 0
+74,OGC Nice,Olympique de Marseille,1 - 0
+75,FC Lorient,Stade Rennais FC,2 - 1
+76,LOSC Lille,Stade Brestois 29,1 - 0
+77,FC Nantes,Montpellier Hérault SC,2 - 0
+78,Toulouse FC,Stade de Reims,1 - 1
+79,AS Monaco,FC Metz,2 - 1
+80,Olympique Lyonnais,Clermont Foot 63,1 - 2
+81,Clermont Foot 63,OGC Nice,0 - 1
+82,Stade de Reims,FC Lorient,1 - 0
+83,RC Lens,FC Nantes,4 - 0
+84,Stade Brestois 29,Paris Saint-Germain,2 - 3
+85,LOSC Lille,AS Monaco,2 - 0
+86,FC Metz,Havre Athletic Club,0 - 0
+87,Montpellier Hérault SC,Toulouse FC,3 - 0
+88,Stade Rennais FC,RC Strasbourg Alsace,1 - 1
+89,Olympique de Marseille,Olympique Lyonnais,3 - 0
+90,Paris Saint-Germain,Montpellier Hérault SC,3 - 0
+91,FC Lorient,RC Lens,0 - 0
+92,Olympique de Marseille,LOSC Lille,0 - 0
+93,Olympique Lyonnais,FC Metz,1 - 1
+94,FC Nantes,Stade de Reims,0 - 1
+95,RC Strasbourg Alsace,Clermont Foot 63,0 - 0
+96,Toulouse FC,Havre Athletic Club,1 - 2
+97,AS Monaco,Stade Brestois 29,2 - 0
+98,OGC Nice,Stade Rennais FC,2 - 0
+99,Montpellier Hérault SC,OGC Nice,0 - 0
+100,Stade de Reims,Paris Saint-Germain,0 - 3
+101,Havre Athletic Club,AS Monaco,0 - 0
+102,Clermont Foot 63,FC Lorient,1 - 0
+103,LOSC Lille,Toulouse FC,1 - 1
+104,FC Metz,FC Nantes,3 - 1
+105,Stade Rennais FC,Olympique Lyonnais,0 - 1
+106,RC Lens,Olympique de Marseille,1 - 0
+107,Stade Brestois 29,RC Strasbourg Alsace,1 - 1
+108,Paris Saint-Germain,AS Monaco,5 - 2
+109,Clermont Foot 63,RC Lens,0 - 3
+110,RC Strasbourg Alsace,Olympique de Marseille,1 - 1
+111,OGC Nice,Toulouse FC,1 - 0
+112,FC Lorient,FC Metz,2 - 3
+113,Montpellier Hérault SC,Stade Brestois 29,1 - 3
+114,FC Nantes,Havre Athletic Club,0 - 0
+115,Stade Rennais FC,Stade de Reims,3 - 1
+116,Olympique Lyonnais,LOSC Lille,0 - 2
+117,Stade de Reims,RC Strasbourg Alsace,2 - 1
+118,RC Lens,Olympique Lyonnais,3 - 2
+119,FC Nantes,OGC Nice,1 - 0
+120,Havre Athletic Club,Paris Saint-Germain,0 - 2
+121,Stade Brestois 29,Clermont Foot 63,3 - 0
+122,AS Monaco,Montpellier Hérault SC,2 - 0
+123,Toulouse FC,FC Lorient,1 - 1
+124,LOSC Lille,FC Metz,2 - 0
+125,Olympique de Marseille,Stade Rennais FC,2 - 0
+126,Montpellier Hérault SC,RC Lens,0 - 0
+127,Stade Rennais FC,AS Monaco,1 - 2
+128,Paris Saint-Germain,FC Nantes,2 - 1
+129,OGC Nice,Stade de Reims,2 - 1
+130,Clermont Foot 63,LOSC Lille,0 - 0
+131,FC Metz,Stade Brestois 29,0 - 1
+132,RC Strasbourg Alsace,Havre Athletic Club,2 - 1
+133,Olympique Lyonnais,Toulouse FC,3 - 0
+134,FC Lorient,Olympique de Marseille,2 - 4
+135,AS Monaco,Olympique Lyonnais,0 - 1
+136,Havre Athletic Club,OGC Nice,3 - 1
+137,RC Lens,Stade de Reims,2 - 0
+138,FC Nantes,Stade Brestois 29,0 - 2
+139,FC Lorient,RC Strasbourg Alsace,1 - 2
+140,FC Metz,Montpellier Hérault SC,0 - 1
+141,Toulouse FC,Stade Rennais FC,0 - 0
+142,Olympique de Marseille,Clermont Foot 63,2 - 1
+143,LOSC Lille,Paris Saint-Germain,1 - 1
+144,Stade Brestois 29,FC Lorient,4 - 0
+145,Clermont Foot 63,Stade Rennais FC,1 - 3
+146,Olympique Lyonnais,FC Nantes,1 - 0
+147,Montpellier Hérault SC,Olympique de Marseille,1 - 1
+148,OGC Nice,RC Lens,2 - 0
+149,Paris Saint-Germain,FC Metz,3 - 1
+150,Stade de Reims,Havre Athletic Club,1 - 0
+151,RC Strasbourg Alsace,LOSC Lille,2 - 1
+152,Toulouse FC,AS Monaco,1 - 2
+153,Olympique de Marseille,RC Strasbourg Alsace,1 - 1
+154,AS Monaco,Stade de Reims,1 - 3
+155,Stade Rennais FC,OGC Nice,2 - 0
+156,LOSC Lille,FC Lorient,3 - 0
+157,Stade Brestois 29,Montpellier Hérault SC,2 - 0
+158,FC Metz,Toulouse FC,0 - 1
+159,FC Nantes,Clermont Foot 63,1 - 2
+160,Havre Athletic Club,Olympique Lyonnais,3 - 1
+161,RC Lens,Paris Saint-Germain,0 - 2
+162,Olympique Lyonnais,Stade Rennais FC,2 - 3
+163,OGC Nice,FC Metz,1 - 0
+164,Olympique de Marseille,AS Monaco,2 - 2
+165,Montpellier Hérault SC,LOSC Lille,0 - 0
+166,Clermont Foot 63,RC Strasbourg Alsace,1 - 1
+167,FC Lorient,Havre Athletic Club,3 - 3
+168,Stade de Reims,FC Nantes,0 - 0
+169,Toulouse FC,RC Lens,0 - 2
+170,Paris Saint-Germain,Stade Brestois 29,2 - 2
+171,RC Strasbourg Alsace,Paris Saint-Germain,1 - 2
+172,Stade Rennais FC,Montpellier Hérault SC,2 - 1
+173,FC Nantes,RC Lens,0 - 1
+174,AS Monaco,Havre Athletic Club,1 - 1
+175,LOSC Lille,Clermont Foot 63,4 - 0
+176,FC Metz,FC Lorient,1 - 2
+177,Stade de Reims,Toulouse FC,2 - 3
+178,Stade Brestois 29,OGC Nice,0 - 0
+179,Olympique Lyonnais,Olympique de Marseille,1 - 0
+180,Olympique de Marseille,FC Metz,1 - 1
+181,RC Lens,RC Strasbourg Alsace,3 - 1
+182,Paris Saint-Germain,LOSC Lille,3 - 1
+183,Havre Athletic Club,Stade Rennais FC,0 - 1
+184,Clermont Foot 63,Stade Brestois 29,1 - 1
+185,FC Lorient,Stade de Reims,2 - 0
+186,Toulouse FC,FC Nantes,1 - 2
+187,Montpellier Hérault SC,Olympique Lyonnais,1 - 2
+188,OGC Nice,AS Monaco,2 - 3
+189,Olympique Lyonnais,OGC Nice,1 - 0
+190,LOSC Lille,Havre Athletic Club,3 - 0
+191,FC Nantes,Paris Saint-Germain,0 - 2
+192,RC Strasbourg Alsace,FC Lorient,1 - 3
+193,AS Monaco,Toulouse FC,1 - 2
+194,Montpellier Hérault SC,FC Metz,3 - 0
+195,Stade Rennais FC,Clermont Foot 63,3 - 1
+196,Stade de Reims,RC Lens,1 - 1
+197,Stade Brestois 29,Olympique de Marseille,1 - 0
+198,FC Metz,Olympique Lyonnais,1 - 2
+199,FC Lorient,FC Nantes,0 - 1
+200,RC Strasbourg Alsace,Stade Brestois 29,0 - 3
+201,RC Lens,AS Monaco,2 - 3
+202,Havre Athletic Club,Stade de Reims,1 - 2
+203,OGC Nice,Clermont Foot 63,0 - 0
+204,Toulouse FC,LOSC Lille,3 - 1
+205,Paris Saint-Germain,Stade Rennais FC,1 - 1
+206,Olympique de Marseille,Montpellier Hérault SC,4 - 1
+207,AS Monaco,Paris Saint-Germain,0 - 0
+208,Stade de Reims,LOSC Lille,0 - 1
+209,Clermont Foot 63,Olympique de Marseille,1 - 5
+210,Toulouse FC,OGC Nice,2 - 1
+211,Stade Brestois 29,Havre Athletic Club,1 - 0
+212,Montpellier Hérault SC,RC Strasbourg Alsace,2 - 2
+213,FC Nantes,FC Metz,0 - 2
+214,Stade Rennais FC,FC Lorient,1 - 2
+215,Olympique Lyonnais,RC Lens,0 - 3
+216,OGC Nice,Montpellier Hérault SC,1 - 2
+217,FC Lorient,Olympique Lyonnais,0 - 2
+218,RC Lens,Stade Brestois 29,1 - 0
+219,Paris Saint-Germain,Stade de Reims,2 - 2
+220,Havre Athletic Club,Toulouse FC,1 - 0
+221,FC Metz,Clermont Foot 63,1 - 0
+222,RC Strasbourg Alsace,AS Monaco,0 - 1
+223,LOSC Lille,Stade Rennais FC,2 - 2
+224,Olympique de Marseille,FC Nantes,2 - 0
+225,Toulouse FC,Olympique Lyonnais,2 - 3
+226,FC Nantes,RC Strasbourg Alsace,1 - 3
+227,RC Lens,OGC Nice,1 - 3
+228,Stade Brestois 29,LOSC Lille,1 - 1
+229,Clermont Foot 63,Havre Athletic Club,2 - 1
+230,AS Monaco,FC Lorient,2 - 2
+231,Stade de Reims,FC Metz,2 - 1
+232,Stade Rennais FC,Olympique de Marseille,2 - 0
+233,Montpellier Hérault SC,Paris Saint-Germain,2 - 6
+234,LOSC Lille,RC Lens,2 - 1
+235,FC Metz,AS Monaco,2 - 5
+236,Olympique Lyonnais,Stade de Reims,1 - 1
+237,FC Lorient,Stade Brestois 29,0 - 1
+238,Clermont Foot 63,Toulouse FC,0 - 3
+239,Havre Athletic Club,Montpellier Hérault SC,0 - 2
+240,OGC Nice,FC Nantes,1 - 2
+241,RC Strasbourg Alsace,Stade Rennais FC,2 - 0
+242,Olympique de Marseille,Paris Saint-Germain,0 - 2
+243,LOSC Lille,Olympique de Marseille,3 - 1
+244,RC Lens,Havre Athletic Club,1 - 1
+245,Paris Saint-Germain,Clermont Foot 63,1 - 1
+246,Stade Brestois 29,FC Metz,4 - 3
+247,Montpellier Hérault SC,FC Lorient,2 - 0
+248,Stade de Reims,OGC Nice,0 - 0
+249,Toulouse FC,RC Strasbourg Alsace,0 - 0
+250,AS Monaco,Stade Rennais FC,1 - 0
+251,FC Nantes,Olympique Lyonnais,1 - 3
+252,FC Metz,RC Lens,2 - 1
+253,RC Strasbourg Alsace,Stade de Reims,3 - 1
+254,Stade Rennais FC,Toulouse FC,1 - 2
+255,Havre Athletic Club,FC Nantes,0 - 1
+256,Clermont Foot 63,Montpellier Hérault SC,1 - 1
+257,Olympique Lyonnais,Stade Brestois 29,4 - 3
+258,FC Lorient,Paris Saint-Germain,1 - 4
+259,AS Monaco,LOSC Lille,1 - 0
+260,Olympique de Marseille,OGC Nice,2 - 2
+261,OGC Nice,FC Lorient,3 - 0
+262,FC Nantes,Stade Rennais FC,0 - 3
+263,RC Lens,Clermont Foot 63,1 - 0
+264,Havre Athletic Club,FC Metz,0 - 1
+265,LOSC Lille,RC Strasbourg Alsace,1 - 0
+266,Stade de Reims,Montpellier Hérault SC,1 - 2
+267,Stade Brestois 29,AS Monaco,0 - 2
+268,Toulouse FC,Olympique de Marseille,2 - 2
+269,Paris Saint-Germain,Olympique Lyonnais,4 - 1
+270,Montpellier Hérault SC,FC Nantes,1 - 1
+271,Paris Saint-Germain,Havre Athletic Club,3 - 3
+272,FC Metz,LOSC Lille,1 - 2
+273,Clermont Foot 63,Stade de Reims,4 - 1
+274,FC Lorient,Toulouse FC,1 - 2
+275,RC Strasbourg Alsace,OGC Nice,1 - 3
+276,Stade Rennais FC,Stade Brestois 29,4 - 5
+277,Olympique Lyonnais,AS Monaco,3 - 2
+278,Olympique de Marseille,RC Lens,2 - 1
+279,Toulouse FC,Montpellier Hérault SC,1 - 2
+280,RC Lens,FC Lorient,2 - 0
+281,Havre Athletic Club,RC Strasbourg Alsace,3 - 1
+282,AS Monaco,Clermont Foot 63,4 - 1
+283,FC Metz,Stade Rennais FC,2 - 3
+284,Stade Brestois 29,FC Nantes,0 - 0
+285,LOSC Lille,Olympique Lyonnais,3 - 4
+286,OGC Nice,Paris Saint-Germain,1 - 2
+287,Stade de Reims,Olympique de Marseille,1 - 0
+288,Stade Brestois 29,Stade de Reims,1 - 1
+289,OGC Nice,Havre Athletic Club,1 - 0
+290,Clermont Foot 63,Olympique Lyonnais,0 - 1
+291,Olympique de Marseille,FC Lorient,3 - 1
+292,Montpellier Hérault SC,AS Monaco,0 - 2
+293,FC Nantes,LOSC Lille,1 - 2
+294,Paris Saint-Germain,Toulouse FC,1 - 3
+295,Stade Rennais FC,RC Lens,1 - 1
+296,RC Strasbourg Alsace,FC Metz,2 - 1
+297,Havre Athletic Club,Olympique de Marseille,1 - 2
+298,RC Lens,Montpellier Hérault SC,2 - 2
+299,LOSC Lille,OGC Nice,2 - 2
+300,FC Lorient,Clermont Foot 63,5 - 0
+301,Olympique Lyonnais,RC Strasbourg Alsace,2 - 1
+302,FC Metz,Paris Saint-Germain,0 - 2
+303,AS Monaco,FC Nantes,4 - 0
+304,Stade de Reims,Stade Rennais FC,2 - 1
+305,Toulouse FC,Stade Brestois 29,0 - 3
+0,Havre Athletic Club,Paris Saint-Germain,1 - 4
+1,Stade Brestois 29,Olympique de Marseille,1 - 5
+2,Stade de Reims,LOSC Lille,0 - 2
+3,AS Monaco,AS Saint-Étienne,1 - 0
+4,AJ Auxerre,OGC Nice,2 - 1
+5,Angers SCO,RC Lens,0 - 1
+6,Montpellier Hérault SC,RC Strasbourg Alsace,1 - 1
+7,Toulouse FC,FC Nantes,0 - 0
+8,Stade Rennais FC,Olympique Lyonnais,3 - 0
+9,Paris Saint-Germain,Montpellier Hérault SC,6 - 0
+10,LOSC Lille,Angers SCO,2 - 0
+11,AS Saint-Étienne,Havre Athletic Club,0 - 2
+12,Olympique Lyonnais,AS Monaco,0 - 2
+13,RC Lens,Stade Brestois 29,2 - 0
+14,FC Nantes,AJ Auxerre,2 - 0
+15,OGC Nice,Toulouse FC,1 - 1
+16,RC Strasbourg Alsace,Stade Rennais FC,3 - 1
+17,Olympique de Marseille,Stade de Reims,2 - 2
+18,Olympique Lyonnais,RC Strasbourg Alsace,4 - 3
+19,Stade Brestois 29,AS Saint-Étienne,4 - 0
+20,Montpellier Hérault SC,FC Nantes,1 - 3
+21,Toulouse FC,Olympique de Marseille,1 - 3
+22,AS Monaco,RC Lens,1 - 1
+23,Angers SCO,OGC Nice,1 - 4
+24,Havre Athletic Club,AJ Auxerre,3 - 1
+25,Stade de Reims,Stade Rennais FC,2 - 1
+26,LOSC Lille,Paris Saint-Germain,1 - 3
+27,AS Saint-Étienne,LOSC Lille,1 - 0
+28,Olympique de Marseille,OGC Nice,2 - 0
+29,AJ Auxerre,AS Monaco,0 - 3
+30,Paris Saint-Germain,Stade Brestois 29,3 - 1
+31,Stade Rennais FC,Montpellier Hérault SC,3 - 0
+32,FC Nantes,Stade de Reims,1 - 2
+33,RC Strasbourg Alsace,Angers SCO,1 - 1
+34,Toulouse FC,Havre Athletic Club,2 - 0
+35,RC Lens,Olympique Lyonnais,0 - 0
+36,OGC Nice,AS Saint-Étienne,8 - 0
+37,LOSC Lille,RC Strasbourg Alsace,3 - 3
+38,Stade Rennais FC,RC Lens,1 - 1
+39,Stade de Reims,Paris Saint-Germain,1 - 1
+40,AS Monaco,Havre Athletic Club,3 - 1
+41,Angers SCO,FC Nantes,1 - 1
+42,Stade Brestois 29,Toulouse FC,2 - 0
+43,Montpellier Hérault SC,AJ Auxerre,3 - 2
+44,Olympique Lyonnais,Olympique de Marseille,2 - 3
+45,AJ Auxerre,Stade Brestois 29,3 - 0
+46,Paris Saint-Germain,Stade Rennais FC,3 - 1
+47,RC Lens,OGC Nice,0 - 0
+48,Havre Athletic Club,LOSC Lille,0 - 3
+49,AS Monaco,Montpellier Hérault SC,2 - 1
+50,Toulouse FC,Olympique Lyonnais,1 - 2
+51,Angers SCO,Stade de Reims,1 - 3
+52,FC Nantes,AS Saint-Étienne,2 - 2
+53,RC Strasbourg Alsace,Olympique de Marseille,1 - 0
+54,Olympique de Marseille,Angers SCO,1 - 1
+55,AS Saint-Étienne,AJ Auxerre,3 - 1
+56,LOSC Lille,Toulouse FC,2 - 1
+57,Stade Rennais FC,AS Monaco,1 - 2
+58,Olympique Lyonnais,FC Nantes,2 - 0
+59,Stade Brestois 29,Havre Athletic Club,2 - 0
+60,Stade de Reims,Montpellier Hérault SC,4 - 2
+61,RC Strasbourg Alsace,RC Lens,2 - 2
+62,OGC Nice,Paris Saint-Germain,1 - 1
+63,AS Monaco,LOSC Lille,0 - 0
+64,Stade Brestois 29,Stade Rennais FC,1 - 1
+65,AS Saint-Étienne,RC Lens,0 - 2
+66,Paris Saint-Germain,RC Strasbourg Alsace,4 - 2
+67,Havre Athletic Club,Olympique Lyonnais,0 - 4
+68,AJ Auxerre,Stade de Reims,2 - 1
+69,FC Nantes,OGC Nice,1 - 1
+70,Toulouse FC,Angers SCO,1 - 1
+71,Montpellier Hérault SC,Olympique de Marseille,0 - 5
+72,Stade Rennais FC,Havre Athletic Club,1 - 0
+73,Angers SCO,AS Saint-Étienne,4 - 2
+74,Stade de Reims,Stade Brestois 29,1 - 2
+75,RC Lens,LOSC Lille,0 - 2
+76,Olympique Lyonnais,AJ Auxerre,2 - 2
+77,Montpellier Hérault SC,Toulouse FC,0 - 3
+78,OGC Nice,AS Monaco,2 - 1
+79,RC Strasbourg Alsace,FC Nantes,3 - 1
+80,Olympique de Marseille,Paris Saint-Germain,0 - 3
+81,AS Monaco,Angers SCO,0 - 1
+82,LOSC Lille,Olympique Lyonnais,1 - 1
+83,Paris Saint-Germain,RC Lens,1 - 0
+84,Stade Brestois 29,OGC Nice,0 - 1
+85,AS Saint-Étienne,RC Strasbourg Alsace,2 - 0
+86,Toulouse FC,Stade de Reims,1 - 0
+87,AJ Auxerre,Stade Rennais FC,4 - 0
+88,Havre Athletic Club,Montpellier Hérault SC,1 - 0
+89,FC Nantes,Olympique de Marseille,1 - 2
+90,Olympique de Marseille,AJ Auxerre,1 - 3
+91,RC Strasbourg Alsace,AS Monaco,1 - 3
+92,RC Lens,FC Nantes,3 - 2
+93,Angers SCO,Paris Saint-Germain,2 - 4
+94,OGC Nice,LOSC Lille,2 - 2
+95,Havre Athletic Club,Stade de Reims,0 - 3
+96,Montpellier Hérault SC,Stade Brestois 29,3 - 1
+97,Stade Rennais FC,Toulouse FC,0 - 2
+98,Olympique Lyonnais,AS Saint-Étienne,1 - 0
+99,AS Monaco,Stade Brestois 29,3 - 2
+100,Paris Saint-Germain,Toulouse FC,3 - 0
+101,RC Lens,Olympique de Marseille,1 - 3
+102,AS Saint-Étienne,Montpellier Hérault SC,1 - 0
+103,Stade de Reims,Olympique Lyonnais,1 - 1
+104,LOSC Lille,Stade Rennais FC,1 - 0
+105,AJ Auxerre,Angers SCO,1 - 0
+106,FC Nantes,Havre Athletic Club,0 - 2
+107,OGC Nice,RC Strasbourg Alsace,2 - 1
+108,Stade de Reims,RC Lens,0 - 2
+109,Stade Rennais FC,AS Saint-Étienne,5 - 0
+110,Stade Brestois 29,RC Strasbourg Alsace,3 - 1
+111,Paris Saint-Germain,FC Nantes,1 - 1
+112,Montpellier Hérault SC,LOSC Lille,2 - 2
+113,Havre Athletic Club,Angers SCO,0 - 1
+114,Olympique Lyonnais,OGC Nice,4 - 1
+115,Toulouse FC,AJ Auxerre,2 - 0
+116,Olympique de Marseille,AS Monaco,2 - 1
+117,LOSC Lille,Stade Brestois 29,3 - 1
+118,AJ Auxerre,Paris Saint-Germain,0 - 0
+119,AS Monaco,Toulouse FC,2 - 0
+120,OGC Nice,Havre Athletic Club,2 - 1
+121,Angers SCO,Olympique Lyonnais,0 - 3
+122,RC Lens,Montpellier Hérault SC,2 - 0
+123,FC Nantes,Stade Rennais FC,1 - 0
+124,RC Strasbourg Alsace,Stade de Reims,0 - 0
+125,AS Saint-Étienne,Olympique de Marseille,0 - 2
+126,Toulouse FC,AS Saint-Étienne,2 - 1
+127,Olympique de Marseille,LOSC Lille,1 - 1
+128,AJ Auxerre,RC Lens,2 - 2
+129,Stade de Reims,AS Monaco,0 - 0
+130,Montpellier Hérault SC,OGC Nice,2 - 2
+131,Stade Brestois 29,FC Nantes,4 - 1
+132,Havre Athletic Club,RC Strasbourg Alsace,0 - 3
+133,Stade Rennais FC,Angers SCO,2 - 0
+134,Paris Saint-Germain,Olympique Lyonnais,3 - 1
+135,AS Monaco,Paris Saint-Germain,2 - 4
+136,OGC Nice,Stade Rennais FC,3 - 2
+137,AS Saint-Étienne,Stade de Reims,3 - 1
+138,LOSC Lille,FC Nantes,1 - 1
+139,Olympique Lyonnais,Montpellier Hérault SC,1 - 0
+140,Angers SCO,Stade Brestois 29,2 - 0
+141,RC Lens,Toulouse FC,0 - 1
+142,RC Strasbourg Alsace,AJ Auxerre,3 - 1
+143,Olympique de Marseille,Havre Athletic Club,5 - 1
+144,FC Nantes,AS Monaco,2 - 2
+145,AJ Auxerre,LOSC Lille,0 - 0
+146,Stade Brestois 29,Olympique Lyonnais,2 - 1
+147,Stade de Reims,OGC Nice,2 - 4
+148,Stade Rennais FC,Olympique de Marseille,1 - 2
+149,Havre Athletic Club,RC Lens,1 - 2
+150,Montpellier Hérault SC,Angers SCO,1 - 3
+151,Toulouse FC,RC Strasbourg Alsace,1 - 2
+152,Paris Saint-Germain,AS Saint-Étienne,2 - 1
+153,Montpellier Hérault SC,AS Monaco,2 - 1
+154,LOSC Lille,OGC Nice,2 - 1
+155,RC Lens,Paris Saint-Germain,1 - 2
+156,Stade Rennais FC,Stade Brestois 29,1 - 2
+157,Olympique Lyonnais,Toulouse FC,0 - 0
+158,AS Saint-Étienne,FC Nantes,1 - 1
+159,Angers SCO,AJ Auxerre,2 - 0
+160,Stade de Reims,Havre Athletic Club,1 - 1
+161,Olympique de Marseille,RC Strasbourg Alsace,1 - 1
+162,AJ Auxerre,AS Saint-Étienne,1 - 1
+163,AS Monaco,Stade Rennais FC,3 - 2
+164,RC Strasbourg Alsace,LOSC Lille,2 - 1
+165,Paris Saint-Germain,Stade de Reims,1 - 1
+166,Havre Athletic Club,Stade Brestois 29,0 - 1
+167,RC Lens,Angers SCO,1 - 0
+168,FC Nantes,Olympique Lyonnais,1 - 1
+169,Toulouse FC,Montpellier Hérault SC,1 - 2
+170,OGC Nice,Olympique de Marseille,2 - 0
+171,Montpellier Hérault SC,RC Lens,0 - 2
+172,Stade Brestois 29,Paris Saint-Germain,2 - 5
+173,AS Monaco,AJ Auxerre,4 - 2
+174,LOSC Lille,AS Saint-Étienne,4 - 1
+175,Toulouse FC,OGC Nice,1 - 1
+176,Angers SCO,Havre Athletic Club,1 - 1
+177,Stade de Reims,FC Nantes,1 - 2
+178,Stade Rennais FC,RC Strasbourg Alsace,1 - 0
+179,Olympique de Marseille,Olympique Lyonnais,3 - 2
+180,FC Nantes,Stade Brestois 29,0 - 2
+181,Paris Saint-Germain,AS Monaco,4 - 1
+182,OGC Nice,RC Lens,2 - 0
+183,LOSC Lille,Havre Athletic Club,1 - 2
+184,AS Saint-Étienne,Stade Rennais FC,0 - 2
+185,Olympique Lyonnais,Stade de Reims,4 - 0
+186,AJ Auxerre,Toulouse FC,2 - 2
+187,RC Strasbourg Alsace,Montpellier Hérault SC,2 - 0
+188,Angers SCO,Olympique de Marseille,0 - 2
+189,Stade Brestois 29,AJ Auxerre,2 - 2
+190,Olympique de Marseille,AS Saint-Étienne,5 - 1
+191,AS Monaco,FC Nantes,7 - 1
+192,Toulouse FC,Paris Saint-Germain,0 - 1
+193,Montpellier Hérault SC,Olympique Lyonnais,1 - 4
+194,Havre Athletic Club,OGC Nice,1 - 3
+195,RC Lens,RC Strasbourg Alsace,0 - 2
+196,Stade de Reims,Angers SCO,0 - 1
+197,Stade Rennais FC,LOSC Lille,0 - 2
+198,Stade Rennais FC,Stade de Reims,1 - 0
+199,LOSC Lille,AS Monaco,2 - 1
+200,AS Saint-Étienne,Angers SCO,3 - 3
+201,AJ Auxerre,Olympique de Marseille,3 - 0
+202,FC Nantes,RC Lens,3 - 1
+203,Havre Athletic Club,Toulouse FC,1 - 4
+204,OGC Nice,Montpellier Hérault SC,2 - 0
+205,RC Strasbourg Alsace,Stade Brestois 29,0 - 0
+206,Olympique Lyonnais,Paris Saint-Germain,2 - 3
+207,AS Monaco,Stade de Reims,3 - 0
+208,AS Saint-Étienne,OGC Nice,1 - 3
+209,RC Lens,Havre Athletic Club,3 - 4
+210,Paris Saint-Germain,LOSC Lille,4 - 1
+211,Olympique Lyonnais,Stade Brestois 29,2 - 1
+212,Angers SCO,Toulouse FC,0 - 4
+213,AJ Auxerre,RC Strasbourg Alsace,0 - 1
+214,Montpellier Hérault SC,Stade Rennais FC,0 - 4
+215,Olympique de Marseille,FC Nantes,2 - 0
+216,Toulouse FC,AS Monaco,1 - 1
+217,Stade Rennais FC,Paris Saint-Germain,1 - 4
+218,LOSC Lille,Montpellier Hérault SC,1 - 0
+219,Olympique de Marseille,RC Lens,0 - 1
+220,Stade Brestois 29,Angers SCO,2 - 0
+221,Havre Athletic Club,AS Saint-Étienne,1 - 1
+222,FC Nantes,RC Strasbourg Alsace,0 - 1
+223,Stade de Reims,AJ Auxerre,0 - 2
+224,OGC Nice,Olympique Lyonnais,0 - 2
+225,OGC Nice,AJ Auxerre,1 - 1
+226,FC Nantes,LOSC Lille,1 - 0
+227,Angers SCO,AS Monaco,0 - 2
+228,RC Lens,Stade Rennais FC,1 - 0
+229,Olympique Lyonnais,Havre Athletic Club,4 - 2
+230,Stade Brestois 29,Stade de Reims,0 - 0
+231,Montpellier Hérault SC,AS Saint-Étienne,
+232,RC Strasbourg Alsace,Toulouse FC,2 - 1
+233,Paris Saint-Germain,Olympique de Marseille,3 - 1
+234,RC Strasbourg Alsace,Olympique Lyonnais,4 - 2
+235,Stade de Reims,Olympique de Marseille,3 - 1
+236,AS Saint-Étienne,Paris Saint-Germain,1 - 6
+237,AS Monaco,OGC Nice,2 - 1
+238,Toulouse FC,Stade Brestois 29,2 - 4
+239,Angers SCO,Stade Rennais FC,0 - 3
+240,AJ Auxerre,Montpellier Hérault SC,1 - 0
+241,Havre Athletic Club,FC Nantes,3 - 2
+242,LOSC Lille,RC Lens,1 - 0
+243,OGC Nice,FC Nantes,1 - 2
+244,Paris Saint-Germain,Angers SCO,1 - 0
+245,Stade Brestois 29,AS Monaco,2 - 1
+246,Olympique Lyonnais,LOSC Lille,2 - 1
+247,RC Lens,AS Saint-Étienne,1 - 0
+248,Montpellier Hérault SC,Havre Athletic Club,0 - 2
+249,Stade de Reims,RC Strasbourg Alsace,0 - 1
+250,Stade Rennais FC,AJ Auxerre,0 - 1
+251,Olympique de Marseille,Toulouse FC,3 - 2
+252,RC Lens,Stade de Reims,0 - 2
+253,AS Monaco,Olympique de Marseille,3 - 0
+254,Toulouse FC,LOSC Lille,1 - 2
+255,RC Strasbourg Alsace,OGC Nice,2 - 2
+256,AS Saint-Étienne,Stade Brestois 29,3 - 3
+257,Angers SCO,Montpellier Hérault SC,2 - 0
+258,Havre Athletic Club,Stade Rennais FC,1 - 5
+259,AJ Auxerre,Olympique Lyonnais,1 - 3
+260,FC Nantes,Paris Saint-Germain,1 - 1
+261,Stade Rennais FC,FC Nantes,2 - 1
+262,Paris Saint-Germain,Havre Athletic Club,2 - 1
+263,AS Monaco,RC Strasbourg Alsace,0 - 0
+264,Olympique de Marseille,Montpellier Hérault SC,5 - 1
+265,LOSC Lille,AJ Auxerre,3 - 1
+266,Stade Brestois 29,RC Lens,1 - 3
+267,OGC Nice,Angers SCO,2 - 1
+268,Stade de Reims,Toulouse FC,1 - 0
+269,AS Saint-Étienne,Olympique Lyonnais,2 - 1
+270,Paris Saint-Germain,OGC Nice,1 - 3
+271,RC Strasbourg Alsace,AS Saint-Étienne,3 - 1
+272,Havre Athletic Club,AS Monaco,1 - 1
+273,Olympique Lyonnais,Stade Rennais FC,4 - 1
+274,Angers SCO,LOSC Lille,0 - 2
+275,RC Lens,AJ Auxerre,0 - 4
+276,Montpellier Hérault SC,Stade de Reims,0 - 0
+277,FC Nantes,Toulouse FC,0 - 0
+278,Olympique de Marseille,Stade Brestois 29,4 - 1
+279,OGC Nice,Stade de Reims,1 - 0
+280,RC Strasbourg Alsace,Paris Saint-Germain,2 - 1
+281,Toulouse FC,Stade Rennais FC,2 - 1
+282,AS Saint-Étienne,AS Monaco,1 - 3
+283,FC Nantes,Angers SCO,0 - 1
+284,AJ Auxerre,Havre Athletic Club,1 - 2
+285,Stade Brestois 29,Montpellier Hérault SC,1 - 0
+286,Olympique Lyonnais,RC Lens,1 - 2
+287,LOSC Lille,Olympique de Marseille,1 - 1
+288,Angers SCO,RC Strasbourg Alsace,2 - 1
+289,AJ Auxerre,FC Nantes,1 - 1
+290,Stade Brestois 29,LOSC Lille,2 - 0
+291,Havre Athletic Club,Olympique de Marseille,1 - 3
+292,AS Monaco,Olympique Lyonnais,2 - 0
+293,Montpellier Hérault SC,Paris Saint-Germain,1 - 4
+294,Stade de Reims,AS Saint-Étienne,0 - 2
+295,Toulouse FC,RC Lens,1 - 1
+296,Stade Rennais FC,OGC Nice,2 - 0
+297,RC Lens,AS Monaco,4 - 0
+298,LOSC Lille,Stade de Reims,2 - 1
+299,Olympique Lyonnais,Angers SCO,2 - 0
+300,Olympique de Marseille,Stade Rennais FC,4 - 2
+301,FC Nantes,Montpellier Hérault SC,3 - 0
+302,OGC Nice,Stade Brestois 29,6 - 0
+303,Paris Saint-Germain,AJ Auxerre,3 - 1
+304,AS Saint-Étienne,Toulouse FC,2 - 3
+305,RC Strasbourg Alsace,Havre Athletic Club,2 - 3
+0,Stade Rennais FC,Olympique de Marseille,1 - 0
+1,RC Lens,Olympique Lyonnais,0 - 1
+2,AS Monaco,Havre Athletic Club,3 - 1
+3,OGC Nice,Toulouse FC,0 - 1
+4,Stade Brestois 29,LOSC Lille,3 - 3
+5,Angers SCO,Paris FC,1 - 0
+6,AJ Auxerre,FC Lorient,1 - 0
+7,FC Metz,RC Strasbourg Alsace,0 - 1
+8,FC Nantes,Paris Saint-Germain,0 - 1
+9,Paris Saint-Germain,Angers SCO,1 - 0
+10,Olympique de Marseille,Paris FC,5 - 2
+11,OGC Nice,AJ Auxerre,3 - 1
+12,Olympique Lyonnais,FC Metz,3 - 0
+13,FC Lorient,Stade Rennais FC,4 - 0
+14,Havre Athletic Club,RC Lens,1 - 2
+15,RC Strasbourg Alsace,FC Nantes,1 - 0
+16,Toulouse FC,Stade Brestois 29,2 - 0
+17,LOSC Lille,AS Monaco,1 - 0
+18,RC Lens,Stade Brestois 29,3 - 1
+19,FC Lorient,LOSC Lille,1 - 7
+20,FC Nantes,AJ Auxerre,1 - 0
+21,Toulouse FC,Paris Saint-Germain,3 - 6
+22,Angers SCO,Stade Rennais FC,1 - 1
+23,Havre Athletic Club,OGC Nice,3 - 1
+24,AS Monaco,RC Strasbourg Alsace,3 - 2
+25,Paris FC,FC Metz,3 - 2
+26,Olympique Lyonnais,Olympique de Marseille,1 - 0
+27,Olympique de Marseille,FC Lorient,4 - 0
+28,OGC Nice,FC Nantes,1 - 0
+29,AJ Auxerre,AS Monaco,1 - 2
+30,LOSC Lille,Toulouse FC,2 - 1
+31,Stade Brestois 29,Paris FC,1 - 2
+32,FC Metz,Angers SCO,1 - 1
+33,Paris Saint-Germain,RC Lens,2 - 0
+34,RC Strasbourg Alsace,Havre Athletic Club,1 - 0
+35,Stade Rennais FC,Olympique Lyonnais,3 - 1
+36,Olympique Lyonnais,Angers SCO,1 - 0
+37,FC Nantes,Stade Rennais FC,2 - 2
+38,Stade Brestois 29,OGC Nice,4 - 1
+39,RC Lens,LOSC Lille,3 - 0
+40,Paris FC,RC Strasbourg Alsace,2 - 3
+41,AJ Auxerre,Toulouse FC,1 - 0
+42,Havre Athletic Club,FC Lorient,1 - 1
+43,AS Monaco,FC Metz,5 - 2
+44,Olympique de Marseille,Paris Saint-Germain,1 - 0
+45,RC Strasbourg Alsace,Olympique de Marseille,1 - 2
+46,FC Lorient,AS Monaco,3 - 1
+47,Toulouse FC,FC Nantes,2 - 2
+48,Paris Saint-Germain,AJ Auxerre,2 - 0
+49,OGC Nice,Paris FC,1 - 1
+50,Angers SCO,Stade Brestois 29,0 - 2
+51,LOSC Lille,Olympique Lyonnais,0 - 1
+52,FC Metz,Havre Athletic Club,0 - 0
+53,Stade Rennais FC,RC Lens,0 - 0
