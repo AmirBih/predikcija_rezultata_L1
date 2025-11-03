@@ -71,33 +71,33 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 71,8,19/10/2025 15:15,Roazhon Park,Stade Rennais FC,AJ Auxerre,2 - 2
 72,8,19/10/2025 15:15,Stadium de Toulouse,Toulouse FC,FC Metz,4 - 0
 68,8,19/10/2025 18:45,Stade de la Beaujoire,FC Nantes,LOSC Lille,0 - 2
-80,9,24/10/2025 18:45,Stade Charléty,Paris FC,FC Nantes,
-75,9,25/10/2025 15:00,Stade Francis-Le Blé,Stade Brestois 29,Paris Saint-Germain,
-79,9,25/10/2025 17:00,Stade Louis II,AS Monaco,Toulouse FC,
-76,9,25/10/2025 19:05,Stade Bollaert-Delelis,RC Lens,Olympique de Marseille,
-77,9,26/10/2025 14:00,Stade Pierre-Mauroy,LOSC Lille,FC Metz,
-73,9,26/10/2025 16:15,Stade Raymond Kopa,Angers SCO,FC Lorient,
-74,9,26/10/2025 16:15,Stade de l'Abbé-Deschamps,AJ Auxerre,Havre Athletic Club,
-81,9,26/10/2025 16:15,Roazhon Park,Stade Rennais FC,OGC Nice,
-78,9,26/10/2025 19:45,Parc Olympique Lyonnais,Olympique Lyonnais,RC Strasbourg Alsace,
-82,10,29/10/2025 18:00,Stade Océane,Havre Athletic Club,Stade Brestois 29,
-83,10,29/10/2025 18:00,Stade du Moustoir,FC Lorient,Paris Saint-Germain,
-85,10,29/10/2025 18:00,Stade Saint-Symphorien,FC Metz,RC Lens,
-87,10,29/10/2025 18:00,Allianz Riviera,OGC Nice,LOSC Lille,
-84,10,29/10/2025 20:05,Stade Vélodrome,Olympique de Marseille,Angers SCO,
-86,10,29/10/2025 20:05,Stade de la Beaujoire,FC Nantes,AS Monaco,
-88,10,29/10/2025 20:05,Stade Charléty,Paris FC,Olympique Lyonnais,
-89,10,29/10/2025 20:05,Stade de la Meinau,RC Strasbourg Alsace,AJ Auxerre,
-90,10,29/10/2025 20:05,Stadium de Toulouse,Toulouse FC,Stade Rennais FC,
-97,11,01/11/2025 16:00,Parc des Princes,Paris Saint-Germain,OGC Nice,
-95,11,01/11/2025 18:00,Stade Louis II,AS Monaco,Paris FC,
-91,11,01/11/2025 20:05,Stade de l'Abbé-Deschamps,AJ Auxerre,Olympique de Marseille,
-98,11,02/11/2025 14:00,Roazhon Park,Stade Rennais FC,RC Strasbourg Alsace,
-93,11,02/11/2025 16:15,Stade Bollaert-Delelis,RC Lens,FC Lorient,
-94,11,02/11/2025 16:15,Stade Pierre-Mauroy,LOSC Lille,Angers SCO,
-96,11,02/11/2025 16:15,Stade de la Beaujoire,FC Nantes,FC Metz,
-99,11,02/11/2025 16:15,Stadium de Toulouse,Toulouse FC,Havre Athletic Club,
-92,11,02/11/2025 19:45,Stade Francis-Le Blé,Stade Brestois 29,Olympique Lyonnais,
+80,9,24/10/2025 18:45,Stade Charléty,Paris FC,FC Nantes,1 - 2
+75,9,25/10/2025 15:00,Stade Francis-Le Blé,Stade Brestois 29,Paris Saint-Germain,0 - 3
+79,9,25/10/2025 17:00,Stade Louis II,AS Monaco,Toulouse FC,1 - 0
+76,9,25/10/2025 19:05,Stade Bollaert-Delelis,RC Lens,Olympique de Marseille,2 - 1
+77,9,26/10/2025 14:00,Stade Pierre-Mauroy,LOSC Lille,FC Metz,6 - 1
+73,9,26/10/2025 16:15,Stade Raymond Kopa,Angers SCO,FC Lorient,2 - 0
+74,9,26/10/2025 16:15,Stade de l'Abbé-Deschamps,AJ Auxerre,Havre Athletic Club,0 - 1
+81,9,26/10/2025 16:15,Roazhon Park,Stade Rennais FC,OGC Nice,1 - 2
+78,9,26/10/2025 19:45,Parc Olympique Lyonnais,Olympique Lyonnais,RC Strasbourg Alsace,2 - 1
+82,10,29/10/2025 18:00,Stade Océane,Havre Athletic Club,Stade Brestois 29,1 - 0
+83,10,29/10/2025 18:00,Stade du Moustoir,FC Lorient,Paris Saint-Germain,1 - 1
+85,10,29/10/2025 18:00,Stade Saint-Symphorien,FC Metz,RC Lens,2 - 0
+87,10,29/10/2025 18:00,Allianz Riviera,OGC Nice,LOSC Lille,2 - 0
+84,10,29/10/2025 20:05,Stade Vélodrome,Olympique de Marseille,Angers SCO,2 - 2
+86,10,29/10/2025 20:05,Stade de la Beaujoire,FC Nantes,AS Monaco,3 - 5
+88,10,29/10/2025 20:05,Stade Charléty,Paris FC,Olympique Lyonnais,3 - 3
+89,10,29/10/2025 20:05,Stade de la Meinau,RC Strasbourg Alsace,AJ Auxerre,3 - 0
+90,10,29/10/2025 20:05,Stadium de Toulouse,Toulouse FC,Stade Rennais FC,2 - 2
+97,11,01/11/2025 16:00,Parc des Princes,Paris Saint-Germain,OGC Nice,1 - 0
+95,11,01/11/2025 18:00,Stade Louis II,AS Monaco,Paris FC,0 - 1
+91,11,01/11/2025 20:05,Stade de l'Abbé-Deschamps,AJ Auxerre,Olympique de Marseille,0 - 1
+98,11,02/11/2025 14:00,Roazhon Park,Stade Rennais FC,RC Strasbourg Alsace,4 - 1
+93,11,02/11/2025 16:15,Stade Bollaert-Delelis,RC Lens,FC Lorient,3 - 0
+94,11,02/11/2025 16:15,Stade Pierre-Mauroy,LOSC Lille,Angers SCO,1 - 0
+96,11,02/11/2025 16:15,Stade de la Beaujoire,FC Nantes,FC Metz,0 - 2
+99,11,02/11/2025 16:15,Stadium de Toulouse,Toulouse FC,Havre Athletic Club,0 - 0
+92,11,02/11/2025 19:45,Stade Francis-Le Blé,Stade Brestois 29,Olympique Lyonnais,0 - 0
 107,12,07/11/2025 19:45,Stade Charléty,Paris FC,Stade Rennais FC,
 104,12,08/11/2025 16:00,Stade Vélodrome,Olympique de Marseille,Stade Brestois 29,
 101,12,08/11/2025 18:00,Stade Océane,Havre Athletic Club,FC Nantes,
